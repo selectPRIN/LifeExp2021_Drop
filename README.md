@@ -7,4 +7,4 @@ Two R codes are provided:
 
 - LifeExp2021_Drop_annual.R calculating annual drop of life expectancy
 - LifeExp2021_Drop_weekly.R calculatin weekly life expectancy drop and its correlation with vaccination rates
-- 
+
